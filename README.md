@@ -38,17 +38,7 @@ python virtual_mouse.py
 - **Cursor Movement**: The index finger controls the cursor.
 - **Clicking Mechanism**: The thumb and index finger proximity trigger a click.
 
-## Demonstration
-![Virtual Mouse Demo](demo.gif)  
-*(Add a demo GIF or image here)*
 
 ## Future Enhancements
 - **Right-Click and Drag**: Additional gesture controls.
 - **Scrolling**: Use vertical finger movement for scrolling.
-
-## Contributors
-- **Pasupuleti Madhav Phani Sai**
-
-## License
-This project is licensed under the **MIT License**.
-
